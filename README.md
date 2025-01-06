@@ -1,5 +1,8 @@
 #飲食店予約サービス
 
+![app_image](https://github.com/user-attachments/assets/15de1682-367f-457e-b500-aacb35998894)
+
+
 #目的
 　飲食店の予約
 
@@ -37,7 +40,16 @@
 
 #テーブル設計
 
+
+![table_image_1](https://github.com/user-attachments/assets/5bbf6c05-68ec-48b9-9474-db2f0ed7905d)
+
+![table_image_2](https://github.com/user-attachments/assets/0bd90c45-0bac-4633-aac6-cd5f22cd8548)
+
+
 #ER図
+
+![ER_diagram](https://github.com/user-attachments/assets/ecd760b7-2d5c-4ee0-80c4-1f8cbb9da00a)
+
 
 #環境構築
 
