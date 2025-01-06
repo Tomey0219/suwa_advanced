@@ -1,0 +1,94 @@
+.register_card {
+    width: 30%;
+    margin: 10% auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px gray;
+    background-color: white;
+}
+
+.register_form {
+    padding: 5% 5%;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.register_ttl {
+    width: 100%;
+    color: white;
+    padding: 3% 5%;
+    margin: 0px;
+    background-color: rgba(53, 96, 246, 1);
+    border-radius: 5px 5px 0px 0px;
+}
+
+.register_tbl {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.register_tbl td {
+    padding: 5px 5px;
+}
+
+.div_register_name::before {
+    content: "";
+    background: url(../img/hito_icon.svg);
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
+
+.register_name {
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+
+.div_register_email::before {
+    content: "";
+    background: url(../img/mail_icon.svg);
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
+
+.register_email {
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.div_register_password::before {
+    content: "";
+    background: url(../img/key_icon.svg);
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
+
+.register_password {
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.register_btn {
+    color: white;
+    background-color: rgba(53, 96, 246, 1);
+    border: none;
+    border-radius: 3px;
+    padding: 3px 10px;
+}
+
+.td_register_btn {
+    text-align: right;
+}
+
+.td_error{
+    color: red;
+    font-weight: bold;
+}
